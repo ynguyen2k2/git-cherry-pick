@@ -1,3 +1,1 @@
-/**
- * Completed task 17
- */
+console.log("task-17.js");
